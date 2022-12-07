@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipebruce
-- 🔭 I’m currently working on projects that uses AWS solutions.
-- 🌱 I’m currently learning cloud solutions, kafka and back-end architecture.
+- 🔭 I’m currently working on projects that uses **AWS solutions**.
+- 🌱 I’m currently learning **cloud solutions**, **kafka** and **back-end architecture**.
 - 📫 How to reach me: **felipenxk8@gmail.com** or **https://www.linkedin.com/in/felipe-bruce/**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebruce&layout=compact&hide=html" alt="felipebruce" /></p>
